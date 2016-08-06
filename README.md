@@ -1,6 +1,8 @@
 Ionic App Base
 =====================
 
+<img src='https://github.com/kosomi/ionicNationalPark/blob/master/Untitled.png?raw=true'>
+
 A starting project for Ionic that optionally supports using custom SCSS.
 
 ## Using this project
